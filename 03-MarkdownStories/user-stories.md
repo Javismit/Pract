@@ -10,5 +10,5 @@ This is a practice activity to learn how to use markdown langage in VS code. Ins
 + I want to compare prices 
 + so that I insure I paid the lowest price
 - - - 
-![alt]https://cdn.techgyd.com/cargurus-2.png
+![Car](https://cdn.motor1.com/images/mgl/J76kQ/s1/chevrolet-corvette-zr1.jpg)
 []
